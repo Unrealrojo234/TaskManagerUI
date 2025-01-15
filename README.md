@@ -2,6 +2,9 @@
 
 A simple Android application that displays a task completion screen using Jetpack Compose. The app shows a congratulatory message with an icon when a task is completed.
 
+![image](https://github.com/user-attachments/assets/08ec4d98-071e-4966-8cb7-23af5bf907d0)
+
+
 ## Features
 
 - Clean, centered layout design
